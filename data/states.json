@@ -1,0 +1,191 @@
+[
+    {
+      "name": "Acre",
+      "code": "AC",
+      "capital": "Rio Branco",
+      "region": "Norte",
+      "cities": 22
+    },
+    {
+      "name": "Alagoas",
+      "code": "AL",
+      "capital": "Maceió",
+      "region": "Nordeste",
+      "cities": 102
+    },
+    {
+      "name": "Amapá",
+      "code": "AP",
+      "capital": "Macapá",
+      "region": "Norte",
+      "cities": 16
+    },
+    {
+      "name": "Amazonas",
+      "code": "AM",
+      "capital": "Manaus",
+      "region": "Norte",
+      "cities": 62
+    },
+    {
+      "name": "Bahia",
+      "code": "BA",
+      "capital": "Salvador",
+      "region": "Nordeste",
+      "cities": 417
+    },
+    {
+      "name": "Ceará",
+      "code": "CE",
+      "capital": "Fortaleza",
+      "region": "Nordeste",
+      "cities": 184
+    },
+    {
+      "name": "Distrito Federal",
+      "code": "DF",
+      "capital": "Brasília",
+      "region": "Centro-Oeste",
+      "cities": 1
+    },
+    {
+      "name": "Espírito Santo",
+      "code": "ES",
+      "capital": "Vitória",
+      "region": "Sudeste",
+      "cities": 78
+    },
+    {
+      "name": "Goiás",
+      "code": "GO",
+      "capital": "Goiânia",
+      "region": "Centro-Oeste",
+      "cities": 246
+    },
+    {
+      "name": "Maranhão",
+      "code": "MA",
+      "capital": "São Luís",
+      "region": "Nordeste",
+      "cities": 217
+    },
+    {
+      "name": "Mato Grosso",
+      "code": "MT",
+      "capital": "Cuiabá",
+      "region": "Centro-Oeste",
+      "cities": 141
+    },
+    {
+      "name": "Mato Grosso do Sul",
+      "code": "MS",
+      "capital": "Campo Grande",
+      "region": "Centro-Oeste",
+      "cities": 79
+    },
+    {
+      "name": "Minas Gerais",
+      "code": "MG",
+      "capital": "Belo Horizonte",
+      "region": "Sudeste",
+      "cities": 853
+    },
+    {
+      "name": "Pará",
+      "code": "PA",
+      "capital": "Belém",
+      "region": "Norte",
+      "cities": 144
+    },
+    {
+      "name": "Paraíba",
+      "code": "PB",
+      "capital": "João Pessoa",
+      "region": "Nordeste",
+      "cities": 223
+    },
+    {
+      "name": "Paraná",
+      "code": "PR",
+      "capital": "Curitiba",
+      "region": "Sul",
+      "cities": 399
+    },
+    {
+      "name": "Pernambuco",
+      "code": "PE",
+      "capital": "Recife",
+      "region": "Nordeste",
+      "cities": 185
+    },
+    {
+      "name": "Piauí",
+      "code": "PI",
+      "capital": "Teresina",
+      "region": "Nordeste",
+      "cities": 224
+    },
+    {
+      "name": "Rio de Janeiro",
+      "code": "RJ",
+      "capital": "Rio de Janeiro",
+      "region": "Sudeste",
+      "cities": 92
+    },
+    {
+      "name": "Rio Grande do Norte",
+      "code": "RN",
+      "capital": "Natal",
+      "region": "Nordeste",
+      "cities": 167
+    },
+    {
+      "name": "Rio Grande do Sul",
+      "code": "RS",
+      "capital": "Porto Alegre",
+      "region": "Sul",
+      "cities": 497
+    },
+    {
+      "name": "Rondônia",
+      "code": "RO",
+      "capital": "Porto Velho",
+      "region": "Norte",
+      "cities": 52
+    },
+    {
+      "name": "Roraima",
+      "code": "RR",
+      "capital": "Boa Vista",
+      "region": "Norte",
+      "cities": 15
+    },
+    {
+      "name": "Santa Catarina",
+      "code": "SC",
+      "capital": "Florianópolis",
+      "region": "Sul",
+      "cities": 295
+    },
+    {
+      "name": "São Paulo",
+      "code": "SP",
+      "capital": "São Paulo",
+      "region": "Sudeste",
+      "cities": 645
+    },
+    {
+      "name": "Sergipe",
+      "code": "SE",
+      "capital": "Aracaju",
+      "region": "Nordeste",
+      "cities": 75
+    },
+    {
+      "name": "Tocantins",
+      "code": "TO",
+      "capital": "Palmas",
+      "region": "Norte",
+      "cities": 139
+    }
+  ]
